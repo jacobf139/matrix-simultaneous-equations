@@ -24,13 +24,12 @@ namespace matrix_simulatenous_equations
         {
             matrix = new double[rows,columns];
 
-            // initiliases as the identity matrix
+            // initiliases as the zero matrix
             for (int row = 0; row < rows; row++)
             {
                 for (int col = 0; col < columns; col++)
                 {
-                    if (row == col) matrix[row, col] = 1;
-                    else matrix[row, col] = 0;
+                    matrix[row, col] = 0;
                 }
             }
         }
