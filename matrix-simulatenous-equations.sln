@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix-simulatenous-equations", "matrix-simulatenous-equations\matrix-simulatenous-equations.csproj", "{834C43D4-1BBD-4D31-AFF5-0D4A8B9537D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834C43D4-1BBD-4D31-AFF5-0D4A8B9537D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834C43D4-1BBD-4D31-AFF5-0D4A8B9537D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834C43D4-1BBD-4D31-AFF5-0D4A8B9537D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834C43D4-1BBD-4D31-AFF5-0D4A8B9537D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125BBFD6-411D-4FB3-A18D-EC1837C999F1}
+	EndGlobalSection
+EndGlobal
